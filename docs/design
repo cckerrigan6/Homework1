@@ -1,0 +1,11 @@
+Outline of sonnet assignment:
+    -initialize two variables (correct and error) to keep track of when to terminate
+    -use a while loop to run the program until correct or error equals 3
+    -split the sonnet into an array of individual words, allowing to index to a specific word
+    -use Math.random(), which selects an integer from 0 to 1, to randomly select an index into the array of words
+    -use a for loop to print out the sonnet up until the random word
+    -use a for loop to print out a specific number of underscores that match the length of the random word
+    -use scanner to ask for user input
+    -check if the user input equals the random word: if they match increase the correct variable by 1 and if they don't match increase the error variable by 1
+    -end the program when either the correct or error variable equals 3, indicate the end of the program with a message
+
