@@ -1,0 +1,20 @@
+Sonnet Assignment
+----------------------
+Class: Sonnet
+----------------------
+Variables:
+sonnet: String
+sonnetWords: String[]
+correct: int
+error: int
+randomWordIndex: int
+randomWord: String
+-----------------------
+Methods:
+Sonnet(String sonnet)
+getCorrect()
+getError()
+randomWordIndex()
+getSonnet()
+checkWord(String userNextWord)
+isGameOver()
